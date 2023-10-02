@@ -16,8 +16,7 @@ public class Xuong_BaConNhon {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hello ba con nhon");
-        var i = "Long"
-        alert(i)
+        System.out.println("hi tuoi la tuan");
     }
 
     
