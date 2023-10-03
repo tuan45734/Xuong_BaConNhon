@@ -17,6 +17,7 @@ public class Xuong_BaConNhon {
         // TODO code application logic here
         System.out.println("hello ba con nhon");
         System.out.println("Toi la hien");
+        System.out.println("hi tuoi la tuan");
     }
 
     
