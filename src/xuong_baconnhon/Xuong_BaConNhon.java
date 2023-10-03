@@ -20,6 +20,7 @@ public class Xuong_BaConNhon {
         System.out.println("hi tuoi la tuan");
         System.out.println("hien la toi");
         System.out.println("thu lai phat nua xem duoc khong");
+        System.out.println("lai loi doi anh em oi");
     }
 
     
