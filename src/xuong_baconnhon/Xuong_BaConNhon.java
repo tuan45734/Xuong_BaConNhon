@@ -26,6 +26,10 @@ public class Xuong_BaConNhon {
         System.out.println("hi ba con nhon");
         System.out.println("Hien dz nhat nhom");
         //Da thay 10 sout //LongZant 
+        int a = 0;
+        int b = 1;
+        c = a + b 
+        System.out.println(c);
     }
 
     
