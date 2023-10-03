@@ -25,6 +25,7 @@ public class Xuong_BaConNhon {
         System.out.println("lai loi doi anh em oi");
         System.out.println("hi ba con nhon");
         System.out.println("Hien dz nhat nhom");
+        System.out.println("17 - B9");
     }
 
     
