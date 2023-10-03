@@ -18,6 +18,7 @@ public class Xuong_BaConNhon {
         System.out.println("hello ba con nhon");
         System.out.println("Toi la hien");
         System.out.println("hi tuoi la tuan");
+        System.out.println("hien la toi");
     }
 
     
