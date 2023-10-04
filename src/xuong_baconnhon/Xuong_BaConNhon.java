@@ -22,6 +22,4 @@ public class Xuong_BaConNhon {
         c = a + b 
         System.out.println(c);
     }
-
-    
 }
