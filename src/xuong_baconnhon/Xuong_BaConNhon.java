@@ -19,7 +19,7 @@ public class Xuong_BaConNhon {
         //Da thay 10 sout //LongZant 
         int a = 0;
         int b = 1;
-        c = a + b 
+        int c = a + b ;
         System.out.println(c);
     }
 }
