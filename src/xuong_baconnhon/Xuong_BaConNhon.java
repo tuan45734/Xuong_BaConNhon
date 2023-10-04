@@ -21,7 +21,7 @@ public class Xuong_BaConNhon {
         int b = 1;
         c = a + b 
         System.out.println(c);
+        //test nhanh xem the nao
+        //dang o nhanh a
     }
-
-    
 }
